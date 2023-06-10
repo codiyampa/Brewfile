@@ -49,6 +49,7 @@ cask "zoom"
 cask "google-chrome"
 cask "firefox"
 
-# Image editors
+# Image editors and color picker
 cask "gimp"
 cask "inkscape"
+cask "pika"
